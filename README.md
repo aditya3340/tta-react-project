@@ -1,6 +1,9 @@
 ## Screenshot of Basic Layout
 ![layout](./src/assests/basicLayout.png)
 
+## User Interface Design
+![Design](./src/assests/ui.png)
+
 
 ## Getting Started with Create React App
 
